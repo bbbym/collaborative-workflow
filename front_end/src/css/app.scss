@@ -1,0 +1,76 @@
+// app global css in SCSS form
+.flex-center-horizontal {
+  justify-content: center;
+}
+
+.flex-center-vertical {
+  align-items: center;
+}
+
+.flex-direction-horizontal {
+  flex-direction: row;
+}
+
+.flex-direction-vertical {
+  flex-direction: column;
+}
+
+.toolbar-menu-active {
+  color: white;
+}
+
+.bg-gray {
+  background: #192431;
+}
+
+.text-gray {
+  color: #70798b;
+}
+
+.text-FCDC00 {
+  color: #0d61fe;
+}
+
+.bg-green {
+  background: #3CE8C1;
+}
+
+.bg-tab {
+  background:#0d61fe;
+}
+
+.bg-gray-light {
+  background: #abafc7;
+}
+
+.q-mx-96 {
+  margin-left: 96px;
+  margin-right: 96px;
+}
+
+.q-ml-8 {
+  margin-left: 8px;
+}
+
+.q-mt-8 {
+  margin-top: 8px;
+}
+
+.q-mb-8 {
+  margin-bottom: 8px;
+}
+
+.bg-color-3CE8C1 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #3ce8c1;
+}
+
+.bg-color-0D61FE {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #0d61fe;
+}
+
+.bg-color-5B58F4 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #f99a11;
+}
